@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pootosh
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 💞️ I’m looking to collaborate on Machine Learning projects.
+- 📫 To reach me go to https://www.pootosh.com.
